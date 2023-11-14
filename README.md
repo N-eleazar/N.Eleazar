@@ -8,4 +8,14 @@ Je crée des applications web et partage mon parcours sur Twitter et Youtube ! E
 •	[LinkedIn](https://linkedin.com/in/nabet-eleazar-6b642228a/)
 
 ### Mes projets :
-•	#### Portfolio
+• Mon Portfolio
+• association AREMAC'S
+• Jeu de Dé
+• Patisserie Orane
+• Lowly
+• theConnect_blog
+• Marvel_Studio
+• Locate_Telecom
+• Virtus
+
+
