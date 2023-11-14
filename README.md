@@ -17,5 +17,4 @@ Je crée des applications web et partage mon parcours sur Twitter et Youtube ! E
 • Marvel_Studio
 • Locate_Telecom
 • Virtus
-
-
+• ...
